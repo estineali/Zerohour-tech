@@ -12,9 +12,6 @@ export default function Home() {
           height={38}
           priority
         />
-        <p className="font-mono text-center self-center-safe">
-          Technology and Media Lab
-        </p>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center"></footer>
     </div>
